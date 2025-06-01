@@ -8,8 +8,10 @@ I am currently working on any open source projects that piques my interest
 
 
 *Want to reach out for any reason*?
-[email](Saediek@proton.me)
-[telegram](https//.t.me/Saediek)
+
+- [email](Saediek@proton.me)
+  
+- [telegram](https//.t.me/Saediek)
 <!--
 **Saediek/Saediek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
