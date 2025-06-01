@@ -1,7 +1,9 @@
 ## Hola 👋
 
 I am literally No<'one> a Computer Scientist (who isn't these days ). 
-I specialize in systems programming mainly using the Rust programming language
+
+I specialize in systems programming mainly using the Rust programming language.
+
 I am currently working on any open source projects that piques my interest
 
 
