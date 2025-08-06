@@ -9,9 +9,11 @@ I am currently working on any open source projects that piques my interest
 
 *Want to reach out for any reason*?
 
-- [email](Saediek@proton.me)
+- [ Mail ](mailto:Saediek@proton.me)
   
-- [telegram](https//.t.me/Saediek)
+- [ Telegram ](https://t.me/Saediek)
+
+- [ Discord ](https://discord.gg/VUEDz8bP)
 <!--
 **Saediek/Saediek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
