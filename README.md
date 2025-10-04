@@ -1,6 +1,6 @@
 ## Hola 👋
 
-I am literally No<'one> a Software developer (who isn't these days ). 
+I am sadiq a software developer (who isn't these days ). 
 
 I specialize in systems programming mainly using the Rust programming language.
 
