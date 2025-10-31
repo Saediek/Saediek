@@ -1,8 +1,10 @@
-## Hola 👋
+## Hola 👋,
 
-I am No<'one> a software developer (who isn't these days ). 
+I’m Sadiq—though I mostly go by No<‘one>. 
 
-I specialize in systems programming mainly using the Rust programming language.
+I’m an aspiring software developer here to learn from people like you who make the world tick. 
+
+Please don’t hesitate to reach out, whether it’s to collaborate on a project, get a second opinion, or just share a good laugh 🤭”
 
 I am currently working on any open source projects that piques my interest
 
